@@ -97,7 +97,7 @@
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"/>
-  <link href="docStyle.css" rel="stylesheet" />
+  <link href="https://cdn.rawgit.com/loicfrance/xsl_doc/master/docStyle.css" rel="stylesheet" />
   <xsl:if test="doc/head"><xsl:copy-of select="doc/head" /></xsl:if>
 </head>
 <body>
